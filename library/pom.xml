@@ -16,7 +16,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>com.google.android</groupId>
+			<groupId>android</groupId>
 			<artifactId>android</artifactId>
 		</dependency>
 		<dependency>
@@ -24,8 +24,8 @@
 			<artifactId>maps</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>com.google.android</groupId>
-			<artifactId>support-v4</artifactId>
+			<groupId>android.support</groupId>
+			<artifactId>compatibility-v4</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>com.actionbarsherlock</groupId>
